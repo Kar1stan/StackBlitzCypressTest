@@ -1,7 +1,6 @@
 # Cypress.io Telnyx test
 ***
-This project is testing telnyx.com site,using Cypress Page Object Model consists of 10 test cases.
-
+The test of general functionality of https://js-55fbfg.stackblitz.io/
 
 ## 💻 Topics
 
@@ -21,8 +20,8 @@ Also delete package.lock file before you run your project.
 ### Git clone
 This will clone the project, install NPM packages and also the Cypres.io which is required to run the test. No Selenium Server is required.
 ```
-$ git clone https://github.com/Kar1stan/TelnyxTest.git
-$ cd TelnyxTest
+$ git clone https://github.com/Kar1stan/StackBlitzCypressTest.git
+$ cd StackBlitzCypressTest
 $ npm install
 ```
 
