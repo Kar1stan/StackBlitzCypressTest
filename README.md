@@ -1,4 +1,4 @@
-# Cypress.io Telnyx test
+# StackBlitzCypressTest
 ***
 The test of general functionality of https://js-55fbfg.stackblitz.io/
 
